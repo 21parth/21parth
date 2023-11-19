@@ -19,4 +19,7 @@ Here are some ideas to get you started:
   <img alt="dotnet" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black">
   <img alt="dotnet" src="https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
   <img alt="dotnet" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="dotnet" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="dotnet" src="https://img.shields.io/badge/microsoft_sql_server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img alt="dotnet" src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
