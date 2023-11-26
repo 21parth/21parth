@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ### Social Media
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn)](https://www.linkedin.com/in/parthp052)
+[![Static Badge](https://img.shields.io/badge/parth05211%40gmail.com-%23EA4335?logo=Gmail&logoColor=white)](mailto:parth05211@gmail.com)
+
 
 
 
