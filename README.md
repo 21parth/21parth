@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: "paa-ar-th".
 - 🚀 Let's get started!!
 
+### Social Media
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn)](https://www.linkedin.com/in/parthp052)
+
+
+
+
+
 ### Tech stack
 <p align="center">
   <img alt="csharp" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white">
