@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Intern at [BlackBerry](https://www.blackberry.com/us/en) as a web developer student.😁
 - 🌱 I’m currently learning everything!😄
-- 📫 How to reach me: [Email](mailto:parth05211@gmail.com) , [LinkedIn](https://www.linkedin.com/in/parthp052/)
 - 😄 Pronouns: "paa-ar-th".
 - 🚀 Let's get started!!
 
