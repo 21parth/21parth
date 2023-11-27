@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: "paa-ar-th".
 - 🚀 Let's get started!!
 
-### How to reach me?
+### Social Media:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn)](https://www.linkedin.com/in/parthp052)
 [![Static Badge](https://img.shields.io/badge/parth05211%40gmail.com-%23EA4335?logo=Gmail&logoColor=white)](mailto:parth05211@gmail.com)
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### Tech stack
+### Tech stack:
 <p align="center">
   <img alt="csharp" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img alt="dotnet" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
