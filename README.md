@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently co-op student at [BlackBerry](https://www.blackberry.com/us/en) as a web developer.😁
+- 🔭 I was a co-op student at [BlackBerry](https://www.blackberry.com/us/en) as a web developer.😁
 - 🌱 I’m currently learning everything!😄
 - 😄 Pronouns: "paa-ar-th".
 - 🚀 Let's get started!!
