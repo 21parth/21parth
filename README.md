@@ -33,5 +33,4 @@ Here are some ideas to get you started:
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="sql" src="https://img.shields.io/badge/microsoft_sql_server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img alt="postman" src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img alt="azure" src="https://img.shields.io/badge/Azure_DevOps-%230078D7?style=for-the-badge&logo=azuredevops">
 </p>
